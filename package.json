@@ -1,5 +1,5 @@
 {
-    "name": "@sahidmiller/textbuffer",
+    "name": "@sahidmiller/vscode-textbuffer",
     "version": "1.0.0",
     "description": "The underling text buffer used in VS Code/Monaco",
     "main": "lib/index.js",
